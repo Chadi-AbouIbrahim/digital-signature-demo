@@ -209,3 +209,15 @@ private.pem
 signature.bin
 message*.txt
 signature*.txt
+
+# keys
+keys/
+*.pem
+*.key
+*.crt
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.env
